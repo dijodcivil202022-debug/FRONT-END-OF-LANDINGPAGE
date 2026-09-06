@@ -1,4 +1,4 @@
-# Techware Lab Assessment - Lorem Landing Page
+# Front end Assessment - Lorem Landing Page
 
 A beautifully animated and highly responsive landing page built for the Techware Lab Assessment.
 
